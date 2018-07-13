@@ -1,0 +1,51 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "e0a225ab94513199d9f616445cfe9536d44fcc7469d2f06c2ab5c3158bf9717e"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.5"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "django": {
+            "hashes": [
+                "sha256:97886b8a13bbc33bfeba2ff133035d3eca014e2309dff2b6da0bdfc0b8656613",
+                "sha256:e900b73beee8977c7b887d90c6c57d68af10066b9dac898e1eaf0f82313de334"
+            ],
+            "index": "pypi",
+            "version": "==2.0.7"
+        },
+        "ffprobe": {
+            "hashes": [
+                "sha256:f7dc048df62c6ccc1c602c865a7f0976b2679200fd07ebdc34ce51e9a8205b76"
+            ],
+            "index": "pypi",
+            "version": "==0.5"
+        },
+        "pytz": {
+            "hashes": [
+                "sha256:a061aa0a9e06881eb8b3b2b43f05b9439d6583c206d0a6c340ff72a7b6669053",
+                "sha256:ffb9ef1de172603304d9d2819af6f5ece76f2e85ec10692a524dd876e72bf277"
+            ],
+            "version": "==2018.5"
+        },
+        "youtube-dl": {
+            "hashes": [
+                "sha256:3300689ccc6cd22b8229e0c9cbb9f2cfcceaa3cef871a8e83c6a456623bb44e5",
+                "sha256:e4f81d38d2c7b8fa6fa069cd0f0096835dcaab91e74a4ca760625b76e0c614b4"
+            ],
+            "index": "pypi",
+            "version": "==2018.7.10"
+        }
+    },
+    "develop": {}
+}
